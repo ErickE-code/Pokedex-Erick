@@ -1,0 +1,14 @@
+{
+    "name": "charmander",
+    "id": 4,
+    "height": 6,
+    "weight": 85,
+    "types": [
+        "fire"
+    ],
+    "abilities": [
+        "blaze",
+        "solar-power"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+}
